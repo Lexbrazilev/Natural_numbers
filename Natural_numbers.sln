@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Natural_numbers", "Natural_numbers\Natural_numbers.pyproj", "{30FB1AA3-C634-40C2-90E9-273A993C5554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FB1AA3-C634-40C2-90E9-273A993C5554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FB1AA3-C634-40C2-90E9-273A993C5554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B50CCB4-CE0D-4CE8-8D53-4374BB204E3A}
+	EndGlobalSection
+EndGlobal
